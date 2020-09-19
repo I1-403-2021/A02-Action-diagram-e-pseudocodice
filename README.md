@@ -1,4 +1,4 @@
-# A02-Action-diagram-e-pseudocodice
+# A02 Action diagram e pseudocodice
 
 Leggi attentamente l'espressione seguente e poi rappresentala:
 
